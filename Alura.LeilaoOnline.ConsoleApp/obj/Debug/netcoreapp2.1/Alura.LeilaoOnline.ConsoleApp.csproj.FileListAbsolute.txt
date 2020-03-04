@@ -1,0 +1,14 @@
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.pdb
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.pdb

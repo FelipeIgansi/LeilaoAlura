@@ -1,0 +1,17 @@
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.csprojAssemblyReference.cache
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.AssemblyInfoInputs.cache
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.AssemblyInfo.cs
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.deps.json
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.runtimeconfig.json
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.runtimeconfig.dev.json
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.pdb
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.csproj.CopyComplete
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.dll
+C:\Users\figansi\Desktop\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.pdb
